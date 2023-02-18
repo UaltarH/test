@@ -1,1 +1,1 @@
-# test
+[test](./contributing.md)
